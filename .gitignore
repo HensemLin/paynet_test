@@ -1,0 +1,3 @@
+.venv/
+.env
+dataset/cc_sample_transaction.json
